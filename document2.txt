@@ -1,4 +1,4 @@
-// C program for Merge Sort
+Hello my name is Yoo seo beom
 #include <stdio.h>
 #include <stdlib.h>
 
